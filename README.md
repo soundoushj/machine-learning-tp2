@@ -1,4 +1,4 @@
-# TP2 — Principal Component Analysis (PCA)
+# TP2 : Principal Component Analysis (PCA)
 
 **National Higher School of Advanced Technologies (ENSTA)**  
 **Machine Learning**  
